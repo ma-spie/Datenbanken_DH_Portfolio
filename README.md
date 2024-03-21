@@ -13,5 +13,6 @@ track_metadata.db
 
 ## Stuktur der Dateien
 
-Der Projektbericht befindet sich in der Datei [Portfolio_Marina_Spielberg](/Portfolio_Marina_Spielberg).
-Alle verwendeten Skripte befinden sich im Ordner [Skripte](Skripte/)
+Der Projektbericht befindet sich in der Datei [Portfolio_Marina_Spielberg](/Portfolio_Marina_Spielberg.pdf).
+Alle verwendeten Skripte befinden sich im Ordner [Skripte](Skripte/).
+Grafiken und Visualisierungen sind im Ordner [Anhänge](Anhänge/).
