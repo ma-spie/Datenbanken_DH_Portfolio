@@ -11,6 +11,7 @@ artist_similarity.db,
 artist_term.db,
 track_metadata.db
 
+Um die Skripte laufen zu lassen müssen sich diese vier Datenbanken im Ordner [Skripte](Skripte/) befinden.
 ## Stuktur der Dateien
 
 Der Projektbericht befindet sich in der Datei [Portfolio_Marina_Spielberg](/Portfolio_Marina_Spielberg.pdf).
