@@ -15,5 +15,7 @@ Um die Skripte laufen zu lassen müssen sich diese vier Datenbanken im Ordner [S
 ## Stuktur der Dateien
 
 Der Projektbericht befindet sich in der Datei [Portfolio_Marina_Spielberg](/Portfolio_Marina_Spielberg.pdf).
+
 Alle verwendeten Skripte befinden sich im Ordner [Skripte](Skripte/).
+
 Grafiken und Visualisierungen sind im Ordner [Anhänge](Anhänge/).
